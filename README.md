@@ -1,5 +1,5 @@
 # Microscopic Jungle Expedition — Student Site
 
-Self-paced Google Site escape room for students.
+Self-paced digital escape room for students. Hosted on GitHub Pages.
 
-Teacher guides and answer keys are **not** included here.
+Teacher guides, answer keys, and printable PDFs are **not** included here.
